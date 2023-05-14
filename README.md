@@ -1,2 +1,2 @@
-# a-tour-of-go-exercise
-My A Tour of Go Exercise
+# 💫a-tour-of-go-exercise
+💫My A Tour of Go Exercise
